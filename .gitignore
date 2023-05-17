@@ -3,3 +3,5 @@ env.js
 index.js
 index.css
 index.html
+.gitignore
+.DS_Store
